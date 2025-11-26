@@ -15,10 +15,31 @@
 
 <div align="center">
   
-  ![GitHub Views](https://komarev.com/ghpvc/?username=ton-username&color=ddb0ff&style=flat-square)
-  ![Followers](https://img.shields.io/github/followers/ton-username?style=social)
-  ![Repositories](https://badges.pufler.dev/repos/ton-username?color=ddb0ff)
+  ![GitHub Views](https://komarev.com/ghpvc/?username=DemonHuman&color=ddb0ff&style=flat-square)
+  ![Followers](https://img.shields.io/github/followers/DemonHuman?style=social)
+  ![Repositories](https://badges.pufler.dev/repos/DemonHuman?color=ddb0ff)
   
+</div>
+
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
+
+### 🏆 **Profil Stats**
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DemonHuman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonHuman&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=00000000"/>
+
+### 🔥 **Streak Stats**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DemonHuman&theme=radical&hide_border=true&background=00000000" />
+
+### 📈 **Activity Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DemonHuman&theme=vue-dark&hide_border=true&area=true&area_color=ddb0ff&bg_color=00000000)
+
+### 🏅 **GitHub Trophies**
+<img src="https://github-profile-trophy.vercel.app/?username=DemonHuman&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
+
 </div>
 
 ---
