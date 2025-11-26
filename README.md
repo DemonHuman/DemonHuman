@@ -1,15 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DemonHuman&section=header&textBg=false&fontColor=ddb0ff&color=0:ddb0ff,50:a78bfa,100:8b5cf6" />
+  <!-- Bannière avec effet de texte animé -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=DDB0FF&center=true&vCenter=true&width=600&height=200&lines=DemonHuman" alt="DemonHuman Animated" />
 </div>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ddb0ff&center=true&vCenter=true&width=280&lines=DemonHuman" alt="Typing SVG" />
+  Salut, je suis DemonHuman !
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ddb0ff&center=true&vCenter=true&width=435&lines=Développeur+Full-Stack;Passionné+IA+%26+Web3;Créateur+de+solutions+digitales;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ddb0ff&center=true&vCenter=true&width=435&lines=Développeur+Full-Stack;Passionné+IA+%26+Web3;Créateur+de+solutions+digitales" alt="Typing SVG" />
 </h3>
 
 <div align="center">
