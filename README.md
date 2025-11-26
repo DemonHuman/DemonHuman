@@ -1,11 +1,10 @@
 <div align="center">
-  <!-- Bannière avec effet de texte animé -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=DDB0FF&center=true&vCenter=true&width=600&height=200&lines=DemonHuman" alt="DemonHuman Animated" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DemonHuman&section=header&textBg=false&fontColor=ddb0ff&color=0:ddb0ff,50:a78bfa,100:8b5cf6" />
 </div>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Salut, je suis DemonHuman !
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ddb0ff&center=true&vCenter=true&width=280&lines=DemonHuman" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
@@ -27,17 +26,12 @@
 
 ### **💻 Langages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nextjs,vue,nodejs,express,nestjs,django,spring,tailwind,sass" />
-</p>
-
-### **🗄️ Bases de données & Cloud**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,azure,gcp,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,go,dart,ruby,vue" />
 </p>
 
 ### **🔧 Outils de développement**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio" />
 </p>
 
 ---
