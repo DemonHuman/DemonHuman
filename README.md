@@ -4,12 +4,12 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Salut, je suis DemonHuman !
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ddb0ff&center=true&vCenter=true&width=280&lines=DemonHuman" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ddb0ff&center=true&vCenter=true&width=435&lines=Développeur+Full-Stack;Passionné+IA+%26+Web3;Créateur+de+solutions+digitales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ddb0ff&center=true&vCenter=true&width=435&lines=Développeur+Full-Stack;Passionné+IA+%26+Web3;Créateur+de+solutions+digitales;Open+Source+Enthusiast" alt="Typing SVG" />
 </h3>
 
 <div align="center">
