@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  ![GitHub Views](https://komarev.com/ghpvc/?username=DemonHuman&color=ddb0ff&style=flat-square)
+  ![GitHub Views](https://komarev.com/ghpvc/?username=DemonHuman&color=ddb0ff&style=for-the-badge)
   ![Followers](https://img.shields.io/github/followers/DemonHuman?style=social)
   ![Repositories](https://badges.pufler.dev/repos/DemonHuman?color=ddb0ff)
   
