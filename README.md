@@ -36,10 +36,3 @@
 </p>
 
 ---
-
-## 🚀 **Projets Phares**
-
-### **🤖 [Project Athena](https://github.com/ton-username/project-athena)** 
-*Assistant IA intelligent avec traitement du langage naturel*
-```bash
-✨ Technologies: Python, TensorFlow, FastAPI, React, PostgreSQL
