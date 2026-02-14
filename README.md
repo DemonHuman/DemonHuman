@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Bannière avec effet de texte animé -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=DDB0FF&center=true&vCenter=true&width=600&height=200&lines=DemonHuman" alt="DemonHuman Animated" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Salut+%F0%9F%91%8B+Je+suis+DemonHuman;Cr%C3%A9ateur+de+ZestFlix+-+Site+de+streaming;Une+exp%C3%A9rience+unique+pour+les+amateurs+de+films%2Fs%C3%A9ries.;Bienvenue+dans+mon+royaume+de+code." />
 </div>
 
 <h1 align="center">
