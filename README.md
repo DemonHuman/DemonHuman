@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=12&pause=1000&color=FB0000&width=435&lines=Salut+%F0%9F%91%8B+Je+suis+DemonHuman;Cr%C3%A9ateur+de+ZestFlix+-+Site+de+streaming;Une+exp%C3%A9rience+unique+pour+les+amateurs+de+films%2Fs%C3%A9ries.;Bienvenue+dans+mon+royaume+de+code.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=14&pause=1000&color=FB0000&width=435&lines=Salut+%F0%9F%91%8B+Je+suis+DemonHuman.;Cr%C3%A9ateur+de+ZestFlix+-+Site+de+streaming;Une+exp%C3%A9rience+unique+pour+les+amateurs+de+films%2Fs%C3%A9ries.;Bienvenue+dans+mon+royaume+de+code.">
 </p>
 
 
