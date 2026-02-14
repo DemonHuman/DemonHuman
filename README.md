@@ -1,7 +1,7 @@
-<div align="center">
-  <!-- Bannière avec effet de texte animé -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Salut+%F0%9F%91%8B+Je+suis+DemonHuman;Cr%C3%A9ateur+de+ZestFlix+-+Site+de+streaming;Une+exp%C3%A9rience+unique+pour+les+amateurs+de+films%2Fs%C3%A9ries.;Bienvenue+dans+mon+royaume+de+code." />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=12&pause=1000&color=FB0000&width=435&lines=Salut+%F0%9F%91%8B+Je+suis+DemonHuman;Cr%C3%A9ateur+de+ZestFlix+-+Site+de+streaming;Une+exp%C3%A9rience+unique+pour+les+amateurs+de+films%2Fs%C3%A9ries.;Bienvenue+dans+mon+royaume+de+code.">
+</p>
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
