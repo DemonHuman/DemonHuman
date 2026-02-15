@@ -57,6 +57,25 @@
 <td width="50%" align="center" color="transparent">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=DemonHuman&theme=highcontrast&hide_border=true&locale=fr" />
     <img src="https://github-readme-stats-fast.vercel.app/api?username=DemonHuman&show_icons=true&theme=github_dark&locale=fr" />
+</td>
+</table>
+</p>
 
 
 
+
+
+
+---
+
+### 🏆 Trophées du Code
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=DemonHuman&locale=fr" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DemonHuman&bg_color=0d0d0d&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" />
+
+---
+
+
+<p align="center">
+  <i>"Le code est mon royaume, chaque ligne une bataille, chaque bug vaincu une victoire."</i><br/>
+</p>
