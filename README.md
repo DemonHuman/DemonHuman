@@ -11,7 +11,7 @@
 
 ### 🧬 Qui suis-je ?
 - 🧠 **Développeur** passionné par la tech, l’expérience utilisateur et l’innovation
-- 🚀 J'ai crée **ZestFlix**, un site stylée, rapide et puissante pour les fans de films/séries
+- 🚀 J'ai crée **ZestFlix**, un site stylé, rapide et puissante pour les fans de films/séries
 - ⚙️ Architecte, dev, UI/UX, QA — Du backend au frontend, rien ne m’échappe.
 - 🧪 Grind non-stop, flow constant, Sigma en action.
 
