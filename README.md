@@ -56,7 +56,7 @@
 <tr>
 <td width="50%" align="center" color="transparent">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=DemonHuman&theme=highcontrast&hide_border=true&locale=fr" />
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=DemonHuman&show_icons=true&theme=github_dark&locale=fr />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=DemonHuman&show_icons=true&theme=github_dark&locale=fr" />
 
 
 
