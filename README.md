@@ -2,51 +2,41 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=14&pause=1000&color=FB0000&center=true&vCenter=true&width=438&height=77&lines=++++++++++++++++++++++Salut+%F0%9F%91%8B+Je+suis+DemonHuman.;Cr%C3%A9ateur+de+ZestFlix+-+Site+de+streaming;Une+exp%C3%A9rience+unique+pour+les+amateurs+de+films%2Fs%C3%A9ries.;Bienvenue+dans+mon+royaume+de+code.">
 </p>
 
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Salut, je suis DemonHuman !
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ddb0ff&center=true&vCenter=true&width=435&lines=Développeur+Full-Stack;Passionné+IA+%26+Web3;Créateur+de+solutions+digitales" alt="Typing SVG" />
-</h3>
-
-<div align="center">
-  
-  ![GitHub Views](https://komarev.com/ghpvc/?username=DemonHuman&color=ddb0ff&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/DemonHuman?style=social)
-  ![Repositories](https://badges.pufler.dev/repos/DemonHuman?color=ddb0ff)
-  
-</div>
-
----
-
-## 🛠️ **Tech Stack & Outils**
-
-### **💻 Langages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,go,dart,ruby,vue" />
-</p>
-
-### **🔧 Outils de développement**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio" />
+  <i>« ZestFlix : l’avenir du streaming commence ici. »</i>
 </p>
 
 ---
 
-## 📈 **Graphique d'activité & Trophées**
 
-<div align="center">
-
-### 📊 **Graphique d'activité**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DemonHuman&theme=vue-dark&hide_border=true&area=true&area_color=ddb0ff&bg_color=00000000)
-
-### 🏅 **Trophées GitHub**
-<img src="https://github-profile-trophy-eight.vercel.app/?username=DemonHuman&theme=radical&no-frame=true&no-bg=true&row=2&column=4" />
-
-</div>
+### 🧬 Qui suis-je ?
+- 🧠 **Développeur** passionné par la tech, l’expérience utilisateur et l’innovation
+- 🚀 J'ai crée **ZestFlix**, une site stylée, rapide et puissante pour les fans de films/séries
+- ⚙️ Architecte, dev, UI/UX, QA — Du backend au frontend, rien ne m’échappe.
+- 🧪 Grind non-stop, flow constant, Sigma en action.
 
 ---
+
+
+### 🛠️ Mes compétences
+#### 🔤 Langages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+#### 🚀 Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### 🧰 Outils
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Google Antigravity IDE](assets/Google_Antigravity_Logo_2025_icon.svg)
+
