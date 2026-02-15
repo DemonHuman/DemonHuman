@@ -40,4 +40,23 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Google Antigravity IDE](https://img.shields.io/badge/Google%20Antigravity-IDE-black?style=for-the-badge&logo=https://raw.githubusercontent.com/DemonHuman/assets/main/Google_Antigravity_Logo_2025_icon.svg&logoColor=white)
 
+---
+
+### 🔥 Mes projets
+| 💡 Projet | Description |
+|----------|-------------|
+| [**ZestFlix**](https://github.com/DemonHuman/zflix) | Plateforme ultime de streaming de films/séries : Streaming fluide, player sur-mesure et expérience pensée pour les vrais amateurs de style et de puissance.
+
+
+---
+
+### 📈 Mes stats
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center" color="transparent">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DemonHuman&theme=highcontrast&hide_border=true&locale=fr" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=DemonHuman&show_icons=true&theme=github_dark&locale=fr />
+
+
 
