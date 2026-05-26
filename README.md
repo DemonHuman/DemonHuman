@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DemonHuman&style=for-the-badge&color=red" />
+</p>
+
+<p align="center">
   <i>« ZestFlix : l’avenir du streaming commence ici. »</i>
 </p>
 
@@ -11,9 +15,9 @@
 
 ### 🧬 Qui suis-je ?
 - 🧠 **Développeur** passionné par la tech, l’expérience utilisateur et l’innovation
-- 🚀 J'ai crée **ZestFlix**, un site stylé, rapide et puissante pour les fans de films/séries
+- 🚀 Créateur de **ZestFlix**, une plateforme moderne pensée pour une expérience de streaming fluide et immersive.
 - ⚙️ Architecte, dev, UI/UX, QA — Du backend au frontend, rien ne m’échappe.
-- 🧪 Grind non-stop, flow constant, Sigma en action.
+- 🧪 Toujours en apprentissage et en amélioration continue.
 
 ---
 
@@ -91,6 +95,7 @@
 <td width="50%" align="center" color="transparent">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=DemonHuman&theme=highcontrast&hide_border=true&locale=fr" />
     <img src="https://github-readme-stats-fast.vercel.app/api?username=DemonHuman&show_icons=true&theme=github_dark&locale=fr" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DemonHuman&layout=compact&theme=github_dark" />
 </td>
 </table>
 </p>
